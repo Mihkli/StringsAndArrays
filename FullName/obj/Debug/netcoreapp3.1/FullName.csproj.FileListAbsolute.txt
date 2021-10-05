@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\TITpe21\StringsAndArrays\FullName\bin\Debug\netcoreapp3.1\FullName.exe
+C:\Users\opilane\source\repos\TITpe21\StringsAndArrays\FullName\bin\Debug\netcoreapp3.1\FullName.deps.json
+C:\Users\opilane\source\repos\TITpe21\StringsAndArrays\FullName\bin\Debug\netcoreapp3.1\FullName.runtimeconfig.json
+C:\Users\opilane\source\repos\TITpe21\StringsAndArrays\FullName\bin\Debug\netcoreapp3.1\FullName.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\TITpe21\StringsAndArrays\FullName\bin\Debug\netcoreapp3.1\FullName.dll
+C:\Users\opilane\source\repos\TITpe21\StringsAndArrays\FullName\bin\Debug\netcoreapp3.1\FullName.pdb
+C:\Users\opilane\source\repos\TITpe21\StringsAndArrays\FullName\obj\Debug\netcoreapp3.1\FullName.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\TITpe21\StringsAndArrays\FullName\obj\Debug\netcoreapp3.1\FullName.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\TITpe21\StringsAndArrays\FullName\obj\Debug\netcoreapp3.1\FullName.AssemblyInfo.cs
+C:\Users\opilane\source\repos\TITpe21\StringsAndArrays\FullName\obj\Debug\netcoreapp3.1\FullName.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\TITpe21\StringsAndArrays\FullName\obj\Debug\netcoreapp3.1\FullName.dll
+C:\Users\opilane\source\repos\TITpe21\StringsAndArrays\FullName\obj\Debug\netcoreapp3.1\FullName.pdb
+C:\Users\opilane\source\repos\TITpe21\StringsAndArrays\FullName\obj\Debug\netcoreapp3.1\FullName.genruntimeconfig.cache
